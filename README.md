@@ -26,7 +26,7 @@ The program is intended to help librarians keep track of books and their availab
 ## Project Structure
 Laboratory01-LibraryBookManagement/
 ├── src/
-│ └── Main.java
+│ └── Lab1JavaReview.java
 └── README.md
 
 ---
